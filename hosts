@@ -1,0 +1,26 @@
+# MDT Connect EMEA Domain Names
+127.0.0.1 ci.connect.medtronic.devl ihs.ci.connect.medtronic.devl
+127.0.0.1 uat.connect.medtronic.devl ihs.uat.connect.medtronic.devl
+127.0.0.1 si.connect.medtronic.devl ihs.si.connect.medtronic.devl
+127.0.0.1 rc.connect.medtronic.devl ihs.rc.connect.medtronic.devl
+127.0.0.1 staging.connect.medtronic.devl ihs.staging.connect.medtronic.devl
+127.0.0.1 prod.connect.medtronic.devl ihs.prod.connect.medtronic.devl
+127.0.0.1 staging.medtronicconnect.devl ihs.staging.medtronicconnect.devl
+127.0.0.1 medtronicconnect.devl ihs.medtronicconnect.devl
+# 127.0.0.1 localhost
+
+# MDT Connect Americas Domain Names
+127.0.0.1 ci.us.connect.medtronic.devl
+127.0.0.1 uat.us.connect.medtronic.devl
+127.0.0.1 si.us.connect.medtronic.devl
+127.0.0.1 rc.us.connect.medtronic.devl
+127.0.0.1 staging.us.connect.medtronic.devl
+127.0.0.1 prod.us.connect.medtronic.devl
+127.0.0.1 staging.us.medtronicconnect.devl
+127.0.0.1 us.medtronicconnect.devl
+
+127.0.0.1 connect-ci.nayaservices.devl
+127.0.0.1 eshop.ci.us.connect.medtronic.devl
+127.0.0.1 eshop.si.us.connect.medtronic.devl
+127.0.0.1 eshop.uat.us.connect.medtronic.devl
+127.0.0.1 eshop.staging.us.connect.medtronic.devl
