@@ -1,0 +1,30 @@
+{
+  "name": "reusable-components",
+  "version": "1.0.0",
+  "description": "Reusable components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvnkumar17/apiexposer.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Pawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvnkumar17/apiexposer/issues"
+  },
+  "homepage": "https://github.com/pvnkumar17/apiexposer#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "rollup": "^2.7.2"
+  }
+}
